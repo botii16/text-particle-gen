@@ -20,8 +20,8 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/botii16/text-particle-gen.git
+   cd text-particle-gen
    ```
 2. Install dependencies:
    ```bash
