@@ -41,10 +41,10 @@ Make sure you have the following installed:
 3. Use the downloaded particlesConfig.json file in your project by integrating it with tsparticles.
 
 ## Technologies Used
-• Next.js (App Router)
-• TypeScript
-• Tailwind CSS
-• tsparticles
+• Next.js (App Router)<br>
+• TypeScript<br>
+• Tailwind CSS<br>
+• tsparticles<br>
 
 ## Folder Structure
 ```
